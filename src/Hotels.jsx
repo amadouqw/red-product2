@@ -1,6 +1,6 @@
 import Sidebar from "./Sidebar"
 import Topbar from "./Topbar"
-import hotels from "./ data"
+import hotels from "./data"
 
 function Hotels() {
   return (
